@@ -11,7 +11,9 @@ Make sure that your CMakeLists.txt is right outside your build file
 
 compile solution using the following command on your command prompt:
 
-```mkdir build
+```bash
+
+mkdir build
 
 cd build
 
