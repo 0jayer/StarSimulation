@@ -1,6 +1,8 @@
 # SFMLSimulation
 Simulations done using the SFML library 
 
+https://github.com/johnBuffer/StarTravelSFML
+
 -Use Clion or Visual Studio to run the simulation
 
 # How to run the simulation:
